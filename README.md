@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A full stack flutter app with Getx State management and firebase backend.
+You can make an account, initially have 100 Coins, and publish any quiz you make with 20 coins => when you solve other peoble quizzes you get 10 coins.
+This app has live quiz feature, you can be the host and make a room and get it's id or invitation id to send it to your friend and compete him/her and see who will finish this quiz first .
